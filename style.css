@@ -578,6 +578,8 @@
     margin-top:34px;
   }
   .donate-details{
+     /* width: 50%; */
+    border: 1px solid black;
     padding:52px 48px;
     background:var(--indigo);
     color:var(--ivory);
